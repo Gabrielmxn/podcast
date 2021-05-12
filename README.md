@@ -1,0 +1,1 @@
+Projeto podcast feito com next no NLW#5, da rocketseat.
